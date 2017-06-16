@@ -8,6 +8,8 @@
 
 Larakod adalah contoh aplikasi web yang dibuat dengan php framework Laravel 5.4, merupakan bagian dari e-book **Panduan Memulai Project Laravel 5.4** yang diunduh secara terpisah.
 
+hello Keep learn guys!
+
 !['Cover Ebook Panduan Memulai Project laravel 5.4'](public/source/Cover.jpg)
 
 ## How Installing larakod 
